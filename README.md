@@ -1,6 +1,6 @@
 # The-Creative-Paradox
-The Creative Paradox in an original gaming IP that examines the impact of AI on humanity, powered by the very AI technology it aims to explore.
 ![THE-CREATIVE-PARADOX-PGS_03](https://github.com/Launch-Session/The-Creative-Paradox/assets/2120817/cc25d740-9698-4ed4-95fb-7a4f8d032cdb)
+The Creative Paradox in an original gaming IP that examines the impact of AI on humanity, powered by the very AI technology it aims to explore.
 
 ## Intro
 The Creative Paradox is a dynamically generated action-adventure game that explores how every creative act affects the fabric of the World. With the power of AI, every action the player takes dynamically changes their surroundings and cast of characters, moment to moment, for better or worse.
